@@ -1,0 +1,15 @@
+{
+    "name": "naval/polygon",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dima",
+            "email": "88064746+navalenyj@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
